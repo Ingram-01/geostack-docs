@@ -11,7 +11,7 @@ Expressions are text/strings that you can use with Geostack for set a Property.
 Every expressions field are located under any Property that supoorted it.
 
 .. image:: images/expression_field.gif
-  :width: 400
+  :width: 100
   :alt: Expression Field
   
 The black bars inside the red squares are alls expression field
