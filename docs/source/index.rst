@@ -1,7 +1,8 @@
 Welcome to Geostack documentation!
 ===================================
 
-This is the official geostack documentation. Where you can find in-depth documentation for expressions and links but also for single slots.__
+This is the official geostack documentation.  
+Here you can find an in-depth documentation for expressions and links and slots usage.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
