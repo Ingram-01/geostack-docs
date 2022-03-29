@@ -13,6 +13,8 @@ Every expressions field are located under any Property that supoorted it.
 .. image:: images/expression_field.gif
   :width: 400
   :alt: Expression Field
+  
+  The black bars inside the red squares are alls expression field
 
 Creating recipes
 ----------------
