@@ -18,7 +18,7 @@ Every Expressions are located under any Property UI that supported it.
 
 To write an expression click with the mouse on field
 
-https://github.com/Ingram-01/geostack-docs/blob/main/docs/_static/add_expression_02.mp4
+
 
 Creating recipes
 ----------------
