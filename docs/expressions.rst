@@ -14,7 +14,7 @@ Expressions are located under any property that supported it.
   :width: 400
   :alt: Expression Field
   
-  The black bars inside the red squares are all expression field.
+  A property and an expression field.
 
 To write an expression click with the mouse on the field and type something.
 
