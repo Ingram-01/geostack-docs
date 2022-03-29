@@ -10,7 +10,7 @@ Expressions are text/strings that you can use with Geostack for take control of 
 
 Every Expressions are located under any property that supported it.
 
-.. figure:: images/expression_field.gif
+.. figure:: images/expression_field_2.gif
   :width: 300
   :alt: Expression Field
   
@@ -30,7 +30,7 @@ Constants
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
-.. figure:: videos/constants.gif
+.. figure:: videos/constants_1.gif
   :width: 400
   :alt: Constants
 
