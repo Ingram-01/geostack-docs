@@ -10,11 +10,11 @@ Expressions are text/strings that you can use with Geostack for set a Property.
 
 Every Expressions are located under any Property UI that supported it.
 
-.. image:: images/expression_field.gif
+.. figure:: images/expression_field.gif
   :width: 300
   :alt: Expression Field
   
-The black bars inside the red squares are all expression field.
+  The black bars inside the red squares are all expression field.
 
 Creating recipes
 ----------------
