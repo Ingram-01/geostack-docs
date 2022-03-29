@@ -18,7 +18,11 @@ Every Expressions are located under any Property UI that supported it.
 
 To write an expression click with the mouse on field
 
-video here
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://github.com/Ingram-01/geostack-docs/blob/main/docs/_static/add_expression_02.mp4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 Creating recipes
 ----------------
