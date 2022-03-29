@@ -18,11 +18,7 @@ Every Expressions are located under any Property UI that supported it.
 
 To write an expression click with the mouse on field
 
-.. video:: _static/video.mp4
-   :width: 500
-   :height: 300
-   :autoplay:
-   :nocontrols:
+
 
 Creating recipes
 ----------------
