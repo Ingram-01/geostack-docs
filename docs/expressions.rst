@@ -3,10 +3,10 @@ Expressions
 
 .. _installation:
 
-How To
+Basics
 ------------
 
-Expressions are text/strings that you can use with Geostack for set a Property.
+Expressions are text/strings that you can use with Geostack for take control of a Property.
 
 Every Expressions are located under any Property UI that supported it.
 
@@ -15,6 +15,10 @@ Every Expressions are located under any Property UI that supported it.
   :alt: Expression Field
   
   The black bars inside the red squares are all expression field.
+
+To write an expression click with the mouse on field
+
+
 
 Creating recipes
 ----------------
