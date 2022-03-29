@@ -16,11 +16,14 @@ Every Expressions are located under any property that supported it.
   
   The black bars inside the red squares are all expression field.
 
+To write an expression click with the mouse on the field and type something.
+
 .. figure:: videos/add_expression.gif
   :width: 400
   :alt: Add Expression
 
-  To write an expression click with the mouse on the field and type what you need.
+  In this example we simply write a value
+  
 
 Creating recipes
 ----------------
