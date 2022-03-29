@@ -8,7 +8,7 @@ Basics
 
 Expressions are text/strings that you can use with Geostack for take control of a Property.
 
-Every Expressions are located under any Property UI that supported it.
+Every Expressions are located under any property that supported it.
 
 .. figure:: images/expression_field.gif
   :width: 300
@@ -18,9 +18,9 @@ Every Expressions are located under any Property UI that supported it.
 
 .. figure:: videos/add_expression.gif
   :width: 400
-  :alt: Expression Field
+  :alt: Add Expression
 
-  To write an expression click with the mouse on field.
+  To write an expression click with the mouse on the field and type what you need.
 
 Creating recipes
 ----------------
