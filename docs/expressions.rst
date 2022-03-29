@@ -14,7 +14,7 @@ Every expressions field are located under any Property that supoorted it.
   :width: 400
   :alt: Expression Field
   
-  The black bars inside the red squares are alls expression field
+The black bars inside the red squares are alls expression field
 
 Creating recipes
 ----------------
