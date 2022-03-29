@@ -1,16 +1,17 @@
-Usage
+Expressions
 =====
 
 .. _installation:
 
-Installation
+How To
 ------------
 
-To use Lumache, first install it using pip:
+Expressions are text/strings that you can use with Geostack for set a Property.
 
-.. code-block:: console
+Every expressions field are located under any Property that supoorted it.
 
-   (.venv) $ pip install lumache
+Image Here
+ 
 
 Creating recipes
 ----------------
