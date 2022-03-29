@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Geostack Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is the official geostack documentation
+Where you can find in-depth documentation for expressions
+but also for single slots
