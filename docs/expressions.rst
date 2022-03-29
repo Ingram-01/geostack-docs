@@ -10,7 +10,9 @@ Expressions are text/strings that you can use with Geostack for set a Property.
 
 Every expressions field are located under any Property that supoorted it.
 
-Image Here
+.. image:: docs/filename.png
+  :width: 400
+  :alt: Alternative text
  
 
 Creating recipes
