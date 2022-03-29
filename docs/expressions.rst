@@ -8,7 +8,7 @@ How To
 
 Expressions are text/strings that you can use with Geostack for set a Property.
 
-Every expressions field are located under any Property that supoorted it.
+Every Expressions are located under any Property UI that supported it.
 
 .. image:: images/expression_field.gif
   :width: 300
