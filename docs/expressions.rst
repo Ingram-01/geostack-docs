@@ -1,8 +1,6 @@
 Expressions
 =====
 
-.. _installation:
-
 Expression Are Test
 ------------
 
