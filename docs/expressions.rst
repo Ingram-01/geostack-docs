@@ -20,7 +20,7 @@ Every Expressions are located under any Property UI that supported it.
   :width: 400
   :alt: Expression Field
 
-  To write an expression click with the mouse on field
+  To write an expression click with the mouse on field.
 
 Creating recipes
 ----------------
