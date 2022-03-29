@@ -12,8 +12,6 @@ Every expressions field are located under any Property that supoorted it.
 
 .. image:: docs/geostack_screen_01.gif
   :width: 400
-  :alt: Alternative text
- 
 
 Creating recipes
 ----------------
