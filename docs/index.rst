@@ -17,6 +17,5 @@ Contents
 
 .. toctree::
 
-   usage
    expressions
    test
