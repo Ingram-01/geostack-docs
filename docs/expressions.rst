@@ -25,8 +25,17 @@ To write an expression click with the mouse on the field and type something.
   In this example we simply write a value
   
 
-Creating recipes
+Constants
 ----------------
+
+Constants are Built-In fixed variables that you can use whatever you want.
+
+.. figure:: videos/constants.gif
+  :width: 400
+  :alt: Constants
+
+  An example of constants
+
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
