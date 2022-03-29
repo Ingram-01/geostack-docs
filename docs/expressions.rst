@@ -1,8 +1,6 @@
 Expressions
 =====
 
-.. _installation:
-
 Basics
 ------------
 
@@ -23,6 +21,15 @@ To write an expression click with the mouse on the field and type something.
 
   In this example we simply write a value
   
+Use Vectors
+----------------
+
+
+Get A Slot
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
 
 Constants
 ----------------
@@ -34,6 +41,12 @@ Constants are Built-In fixed variables that you can use whatever you want.
   :alt: Constants
 
   An example of constants
+
+Links
+=====
+
+Basics
+------------
 
 
 To retrieve a list of random ingredients,
