@@ -18,7 +18,9 @@ Every Expressions are located under any Property UI that supported it.
 
 To write an expression click with the mouse on field
 
-
+.. figure:: videos/add_expression.gif
+  :width: 300
+  :alt: Expression Field
 
 Creating recipes
 ----------------
