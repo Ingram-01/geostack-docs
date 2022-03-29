@@ -13,7 +13,8 @@ Expressions are located under any property that supported it.
 .. figure:: images/expression_field_2.jpg
   :width: 400
   :alt: Expression Field
-  :align: center
+  
+  A property and an expression field.
 
 To write an expression click with the mouse on the field and type something.
 
