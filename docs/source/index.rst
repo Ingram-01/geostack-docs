@@ -1,10 +1,7 @@
 Welcome to Geostack documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is the official geostack documentation. Where you can find in-depth documentation for expressions and links but also for single slots.__
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
