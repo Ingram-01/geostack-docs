@@ -8,7 +8,7 @@ Basics
 
 Expressions are text/strings that you can use with Geostack for take control of a Property.
 
-Every Expressions are located under any property that supported it.
+Expressions are located under any property that supported it.
 
 .. figure:: images/expression_field_2.png
   :width: 300
