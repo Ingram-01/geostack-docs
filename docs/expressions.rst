@@ -26,6 +26,26 @@ To write an expression click with the mouse on the field and type what you need.
 | It's similar when you use a Nodes Editor and you link outputs and inputs but,
 | instead to use nodes, you use text.
 | Expressions are basicaly the text way to do spaghetti nodes.
+|
+| Let's make an example, A cube that move up and down.
+
+.. figure:: videos/sine_movement.gif
+  :width: 400
+  :alt: Sine Movement
+
+  A cube tha move in a wave movement up and down
+
+This is how you make this in Geometry Nodes.
+
+.. figure:: images/sine_movement_gn.jpg
+  :width: 400
+  :alt: Sine Movement Geometry Nodes
+
+And this is the Geostack equivalent.
+
+.. figure:: images/sine_movement_gs.jpg
+  :width: 400
+  :alt: Sine Movement Geostack
 
 .. _values:
 
