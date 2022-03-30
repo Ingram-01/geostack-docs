@@ -34,9 +34,9 @@ Values
 
 .. _float:
 
-.. type:: Float
+.. py:data:: Float
     
-Floating point real values: 0.5, 1.0, 2.1 ecc miao...
+Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 .. _int:
 
