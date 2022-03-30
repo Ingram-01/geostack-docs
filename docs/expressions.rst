@@ -27,13 +27,13 @@ To write an expression click with the mouse on the field and type what you need.
 | instead to use nodes, you use text.
 | Expressions are basicaly the text way to do spaghetti nodes.
 |
-| Let's make an example, A cube that move up and down.
+| Let's make an example: A cube that move up and down.
 
 .. figure:: videos/sine_movement.gif
   :width: 200
   :alt: Sine Movement
 
-  A cube tha move in a wave movement up and down
+  A cube that move in a wave movement up and down
 
 This is how you make this in Geometry Nodes.
 
