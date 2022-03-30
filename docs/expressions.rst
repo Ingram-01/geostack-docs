@@ -38,25 +38,16 @@ Values
     
 Floating point real values: 0.5, 1.0, 2.1 ecc...
 
-.. _int:
-
-Int
-----------------
+.. py:data:: Int
 
 Signed Integer: 1, 2, 3, 4 ecc..
 
-.. _bool:
-
-Boolean
-----------------
+.. py:data:: Bool
 
 Booleans represent one of two values: True or False.
 Usefull in :ref:`ternary`.
 
-.. _vector:
-
-Vector
-----------------
+.. py:data:: Vector
 
 | Representation of 3D vectors.
 | You can use them in expressions as v( x, y, z ).
@@ -67,8 +58,7 @@ Vector
   
   Example of a new vector.
 
-Euler
-----------------
+.. py:data:: Euler
 
 Representation of 3D vectors and points as x,y,z
 
@@ -83,6 +73,7 @@ Built-In Functions
 
 .. _constants:
 
+----------------
 Constants
 ----------------
 
