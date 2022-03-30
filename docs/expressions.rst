@@ -62,15 +62,10 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Built-In Functions
 =====
 
-Slot Reference
-----------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
 .. _constants:
 
 Constants
-=====
+----------------
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
@@ -80,16 +75,14 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
-.. _maths:
-
-Maths
-=====
+Slot Reference
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-.. _arrays:
+.. _maths:
 
-Arrays
+Maths
 =====
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -111,20 +104,27 @@ Basics
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
+.. _arrays:
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Arrays
+=====
 
-.. autofunction:: lumache.get_random_ingredients
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+.. 
+    To retrieve a list of random ingredients,
+    you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autoexception:: lumache.InvalidKindError
+    .. autofunction:: lumache.get_random_ingredients
 
-For example:
+    The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
+    or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+    will raise an exception.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+    .. autoexception:: lumache.InvalidKindError
+
+    For example:
+
+    >>> import lumache
+    >>> lumache.get_random_ingredients()
+    ['shells', 'gorgonzola', 'parsley']
