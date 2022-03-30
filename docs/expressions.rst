@@ -37,28 +37,41 @@ Values
 Float
 ----------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 .. _int:
 
 Int
 ----------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow.
+Signed Integer: 1, 2, 3, 4 ecc..
 
 .. _bool:
 
 Boolean
 ----------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+Booleans represent one of two values: True or False.
+Usefull in :ref:`ternary`.
 
 .. _vector:
 
 Vector
 ----------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+| Representation of 3D vectors.
+| You can use in expressions as v(x,y,z).
+
+.. figure:: videos/vector.gif
+  :width: 400
+  :alt: Add Expression
+  
+  Example of vector declaration.
+
+Euler
+----------------
+
+Representation of 3D vectors and points as x,y,z
 
 .. _builtin:
 
