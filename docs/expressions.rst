@@ -35,34 +35,36 @@ Values
 .. _float:
 
 ----------------
-.. py:data:: Float
+Float
 ----------------
-    
+
+.. .. py:data:: Float
+
 Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 
 ----------------
-
+Int
 ----------------
 
-.. py:data:: Int
+.. .. py:data:: Int
 
 Signed Integer: 1, 2, 3, 4 ecc..
 
 ----------------
-
+Bool
 ----------------
 
-.. py:data:: Bool
+.. .. py:data:: Bool
 
 Booleans represent one of two values: True or False.
 Usefull in :ref:`ternary`.
 
 ----------------
-
+Vector
 ----------------
 
-.. py:data:: Vector
+.. .. py:data:: Vector
 
 | Representation of 3D vectors.
 | You can use them in expressions as v( x, y, z ).
@@ -74,10 +76,10 @@ Usefull in :ref:`ternary`.
   Example of a new vector.
 
 ----------------
-
+Euler
 ----------------
 
-.. py:data:: Euler
+.. .. py:data:: Euler
 
 Representation of 3D vectors and points as x,y,z
 
@@ -104,6 +106,7 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
+------------
 Slot Reference
 ----------------
 
@@ -111,6 +114,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _maths:
 
+------------
 Maths
 ----------------
 
@@ -118,6 +122,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _operators:
 
+------------
 Operators
 ----------------
 
@@ -125,6 +130,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _ternary:
 
+------------
 Ternary
 ----------------
 
@@ -137,6 +143,7 @@ Links
 
 .. _links_basics:
 
+------------
 Basics
 ------------
 
@@ -144,6 +151,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _arrays:
 
+----------------
 Arrays
 ----------------
 
@@ -151,6 +159,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _links_expressions:
 
+----------------
 Expression
 ----------------
 
@@ -158,6 +167,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _object:
 
+------------
 Object
 ----------------
 
