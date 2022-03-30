@@ -74,7 +74,7 @@ Vector
 | You can use them in expressions as v( x, y, z ).
 
 .. figure:: videos/vector.gif
-  :width: 400
+  :width: 300
   :alt: Add Expression
   
   Example of a new vector.
