@@ -34,7 +34,7 @@ Values
 
 .. _float:
 
-.. py:function:: Float
+.. py:type:: Float
 | Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 .. _int:
