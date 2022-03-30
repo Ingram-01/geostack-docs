@@ -19,7 +19,7 @@ To write an expression click with the mouse on the field and type what you need.
   :width: 400
   :alt: Add Expression
 
-  In this example we simply write a single value
+  In this example we simply write a single value to the expression field
 
 | Expressions support: :ref:`values`, :ref:`operators`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`builtin` and :ref:`constants`.
 | You can concatenates all of this until you get the desired result.
