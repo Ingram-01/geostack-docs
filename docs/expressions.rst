@@ -60,7 +60,6 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 .. _built-in functions:
 
 Built-In Functions
-
 =====
 
 Slot Reference
