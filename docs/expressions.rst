@@ -34,9 +34,9 @@ Values
 
 .. _float:
 
-.. class:: Float
+.. type:: Float
     
-    Floating point real values: 0.5, 1.0, 2.1 ecc...
+Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 .. _int:
 
