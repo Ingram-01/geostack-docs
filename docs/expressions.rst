@@ -80,7 +80,7 @@ Vector
   Example of a new vector.
   
 | Vectors support almost all operations and also support all functions of the python blender api
-| More `here`_.
+| If you want learn about more `here`_.
 
 .. _here: https://docs.blender.org/api/current/mathutils.html#mathutils.Vector
 
