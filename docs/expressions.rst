@@ -31,6 +31,7 @@ To write an expression click with the mouse on the field and type what you need.
 .. figure:: videos/sine_movement.gif
   :width: 300
   :alt: Sine Movement
+  :align: center
 
   A cube that move up and down
 
