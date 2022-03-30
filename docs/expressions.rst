@@ -1,13 +1,6 @@
 Expressions
 =====
 
-The ``SimpleBleClient`` class
-*****************************
-.. autoclass:: simpleble.SimpleBleClient
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
 Basics
 ------------
 
