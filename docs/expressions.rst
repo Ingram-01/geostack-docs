@@ -40,7 +40,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Int
 ----------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow.
 
 Boolean
 ----------------
