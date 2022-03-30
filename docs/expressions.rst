@@ -33,7 +33,7 @@ To write an expression click with the mouse on the field and type what you need.
   :width: 200
   :alt: Sine Movement
 
-  A cube that move in a wave movement up and down
+  A cube that move up and down
 
 This is how you make the movement in Geometry Nodes.
 
