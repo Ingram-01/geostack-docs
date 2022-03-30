@@ -21,11 +21,11 @@ To write an expression click with the mouse on the field and type what you need.
 
   In this example we simply write a single value
 
-| Expressions support :ref:`values`, maths, :ref:`links`, arrays, Built-In functions and constants.
+| Expressions support :ref:`values`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`ternary`, :ref:`built-in` and :ref:`constants`.
 | You can concatenates all of this until you get the desired result.
 | It's similar when you use Nodes and you link outputs and inputs but,
 | instead to use nodes, you use text.
-| Expressions are basicaly the text way to do spaghetti nodes. 
+| Expressions are basicaly the text way to do spaghetti nodes.
 
 .. _values:
 
@@ -35,26 +35,43 @@ Values
 Float
 ----------------
 
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
 Int
-----------------
-
-Boolean
-----------------
-
-Vectors
-----------------
-
-Expression
-----------------
-
-Get A Slot
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
+Boolean
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+Vectors
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+Expression
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _built-in:
+
+Built-In Functions
+
+=====
+
+Slot Reference
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _constants:
 
 Constants
-----------------
+=====
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
@@ -64,8 +81,26 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
+.. _maths:
+
+Maths
+=====
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _arrays:
+
+Arrays
+=====
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _ternary:
+
 Ternary
 =====
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _links:
 
@@ -74,6 +109,8 @@ Links
 
 Basics
 ------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 
 To retrieve a list of random ingredients,
