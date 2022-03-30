@@ -35,7 +35,7 @@ To write an expression click with the mouse on the field and type what you need.
 
   A cube that move in a wave movement up and down
 
-This is how you make this in Geometry Nodes.
+This is how you make the movement in Geometry Nodes.
 
 .. figure:: images/sine_movement_gn.jpg
   :width: 600
