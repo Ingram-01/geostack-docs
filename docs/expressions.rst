@@ -30,32 +30,32 @@ To write an expression click with the mouse on the field and type what you need.
 .. _values:
 
 Values
-----------------
+------------
 
 .. _float:
 
-----------------
+------------
 Float
-----------------
+------------
 
 Floating point real values: 0.5, 1.0, 2.1 ecc...
 
-----------------
+------------
 Int
-----------------
+------------
 
 Signed Integer: 1, 2, 3, 4 ecc..
 
-----------------
+------------
 Bool
-----------------
+------------
 
 | Booleans represent one of two values: True or False.
 | Usefull in :ref:`ternary`.
 
-----------------
+------------
 Vector
-----------------
+------------
 
 | Representation of 3D vectors.
 | You can use them in expressions as v( x, y, z ).
@@ -66,26 +66,25 @@ Vector
   
   Example of a new vector.
 
-----------------
+------------
 Euler
-----------------
+------------
 
 Representation of 3D vectors and points as x,y,z
 
 .. _builtin:
 
 Built-In Functions
-----------------
-
+------------
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _constants:
 
-----------------
+------------
 Constants
-----------------
+------------
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
@@ -97,7 +96,7 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
 ------------
 Slot Reference
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
@@ -105,7 +104,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 ------------
 Maths
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
@@ -113,7 +112,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 ------------
 Operators
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
@@ -121,14 +120,14 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 ------------
 Ternary
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _links:
 
 Links
-----------------
+------------
 
 .. _links_basics:
 
@@ -140,17 +139,17 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _arrays:
 
-----------------
+------------
 Arrays
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _links_expressions:
 
-----------------
+------------
 Expression
-----------------
+------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
