@@ -34,10 +34,8 @@ Values
 
 .. _float:
 
-Float
-----------------
-
-Floating point real values: 0.5, 1.0, 2.1 ecc...
+| Float
+| Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 .. _int:
 
