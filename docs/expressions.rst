@@ -38,7 +38,7 @@ To write an expression click with the mouse on the field and type what you need.
   :alt: Sine Movement Geometry Nodes
   :align: center
 
-  On the left is how you make the movement in Geometry Nodes on the right in Geostack.
+  On the left the Geometry Nodes version of the movement on the right the Geostack version.
 
 .. _values:
 
