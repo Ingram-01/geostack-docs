@@ -84,8 +84,8 @@ Built-In Functions
 
 .. _constants:
 
-    Constants
-    ----------------
+Constants
+----------------
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
@@ -95,15 +95,15 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
-    Slot Reference
-    ----------------
+Slot Reference
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _maths:
 
-    Maths
-    ----------------
+Maths
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
@@ -116,8 +116,8 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _ternary:
 
-    Ternary
-    ----------------
+Ternary
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
