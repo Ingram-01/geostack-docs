@@ -32,27 +32,30 @@ To write an expression click with the mouse on the field and type what you need.
 Values
 =====
 
+.. _float:
+
 Float
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _int:
 
 Int
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow.
 
+.. _bool:
+
 Boolean
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-Vectors
-----------------
+.. _vector:
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
-Expression
+Vector
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -99,6 +102,8 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Links
 =====
 
+.. _links_basics:
+
 Basics
 ------------
 
@@ -107,7 +112,21 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 .. _arrays:
 
 Arrays
-=====
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _links_expressions:
+
+Expression
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _object:
+
+Object
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
