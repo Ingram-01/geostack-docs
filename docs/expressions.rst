@@ -21,7 +21,7 @@ To write an expression click with the mouse on the field and type what you need.
 
   In this example we simply write a single value
 
-| Expressions support :ref:`values`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`ternary`, :ref:`built-in` and :ref:`constants`.
+| Expressions support :ref:`values`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`ternary`, :ref:`builtin` and :ref:`constants`.
 | You can concatenates all of this until you get the desired result.
 | It's similar when you use Nodes and you link outputs and inputs but,
 | instead to use nodes, you use text.
@@ -57,7 +57,7 @@ Expression
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-.. _built-in:
+.. _builtin:
 
 Built-In Functions
 
