@@ -27,7 +27,7 @@ To write an expression click with the mouse on the field and type what you need.
 | instead to use nodes, you use text.
 | Expressions are basicaly the text way to do spaghetti nodes.
 |
-| Let's make an example: A cube that move up and down.
+| Let's make an example:
 
 .. figure:: videos/sine_movement.gif
   :width: 200
