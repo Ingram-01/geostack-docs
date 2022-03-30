@@ -10,7 +10,6 @@ Basics
 .. figure:: images/expression_field_2.jpg
   :width: 400
   :alt: Expression Field
-  :align: center
   
   A property and an expression field.
 
@@ -19,7 +18,6 @@ To write an expression click with the mouse on the field and type what you need.
 .. figure:: videos/add_expression.gif
   :width: 400
   :alt: Add Expression
-  :align: center
 
   In this example we simply write a single value to the expression field
 
@@ -78,7 +76,6 @@ Vector
 .. figure:: videos/vector.gif
   :width: 400
   :alt: Add Expression
-  :align: center
   
   Example of a new vector.
   
