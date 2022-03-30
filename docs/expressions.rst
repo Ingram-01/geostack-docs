@@ -30,7 +30,7 @@ To write an expression click with the mouse on the field and type what you need.
 .. _values:
 
 Values
-=====
+----------------
 
 .. _float:
 
@@ -76,7 +76,7 @@ Representation of 3D vectors and points as x,y,z
 .. _builtin:
 
 Built-In Functions
-=====
+----------------
 
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -84,8 +84,8 @@ Built-In Functions
 
 .. _constants:
 
-Constants
-----------------
+    Constants
+    ----------------
 
 Constants are Built-In fixed variables that you can use whatever you want.
 
@@ -95,36 +95,36 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
-Slot Reference
-----------------
+    Slot Reference
+    ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _maths:
 
-Maths
-----------------
+    Maths
+    ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _operators:
 
 Operators
-=====
+----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _ternary:
 
-Ternary
-----------------
+    Ternary
+    ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. _links:
 
 Links
-=====
+----------------
 
 .. _links_basics:
 
