@@ -35,7 +35,7 @@ Values
 .. _float:
 
 ----------------
-Float
+
 ----------------
     
 .. py:data:: Float
@@ -44,7 +44,7 @@ Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 
 ----------------
-Int
+
 ----------------
 
 .. py:data:: Int
@@ -52,7 +52,7 @@ Int
 Signed Integer: 1, 2, 3, 4 ecc..
 
 ----------------
-Bool
+
 ----------------
 
 .. py:data:: Bool
@@ -61,7 +61,7 @@ Booleans represent one of two values: True or False.
 Usefull in :ref:`ternary`.
 
 ----------------
-Vector
+
 ----------------
 
 .. py:data:: Vector
@@ -76,7 +76,7 @@ Vector
   Example of a new vector.
 
 ----------------
-Euler
+
 ----------------
 
 .. py:data:: Euler
