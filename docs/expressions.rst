@@ -38,16 +38,11 @@ Values
 Float
 ----------------
 
-.. .. py:data:: Float
-
 Floating point real values: 0.5, 1.0, 2.1 ecc...
-
 
 ----------------
 Int
 ----------------
-
-.. .. py:data:: Int
 
 Signed Integer: 1, 2, 3, 4 ecc..
 
@@ -55,16 +50,12 @@ Signed Integer: 1, 2, 3, 4 ecc..
 Bool
 ----------------
 
-.. .. py:data:: Bool
-
 Booleans represent one of two values: True or False.
 Usefull in :ref:`ternary`.
 
 ----------------
 Vector
 ----------------
-
-.. .. py:data:: Vector
 
 | Representation of 3D vectors.
 | You can use them in expressions as v( x, y, z ).
@@ -78,8 +69,6 @@ Vector
 ----------------
 Euler
 ----------------
-
-.. .. py:data:: Euler
 
 Representation of 3D vectors and points as x,y,z
 
@@ -190,3 +179,4 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
     >>> import lumache
     >>> lumache.get_random_ingredients()
     ['shells', 'gorgonzola', 'parsley']
+    .. py:data:: Int
