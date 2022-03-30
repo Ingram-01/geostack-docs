@@ -35,11 +35,9 @@ Values
 .. _float:
 
 ----------------
-
+.. py:data:: Float
 ----------------
     
-.. py:data:: Float
-
 Floating point real values: 0.5, 1.0, 2.1 ecc...
 
 
