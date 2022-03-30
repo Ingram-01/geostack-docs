@@ -51,13 +51,13 @@ Values
 Float
 ------------
 
-Floating point real values: 0.5, 1.0, 2.1 ecc...
+Floating point real values: 0.5, 1.0, 2.1 etc...
 
 ------------
 Int
 ------------
 
-Signed Integer: 1, 2, 3, 4 ecc..
+Signed Integer: 1, 2, 3, 4 etc..
 
 ------------
 Bool
@@ -78,6 +78,11 @@ Vector
   :alt: Add Expression
   
   Example of a new vector.
+  
+| Vectors support almost all operations and also support all functions of the python blender api
+| More `here`_.
+
+.. _here: https://docs.blender.org/api/current/mathutils.html#mathutils.Vector
 
 ------------
 Euler
