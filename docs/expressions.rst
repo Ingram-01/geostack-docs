@@ -71,7 +71,7 @@ Vector
 ------------
 
 | Representation of 3D vectors.
-| You can use them in expressions as v(x,y,z) or x,y,z if only need one single value.
+| You can use them in expressions as v(x,y,z) or x,y,z if you only need one single value.
 
 .. figure:: videos/vector.gif
   :width: 300
