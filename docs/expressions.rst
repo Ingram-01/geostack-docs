@@ -29,7 +29,7 @@ To write an expression click with the mouse on the field and type what you need.
 | Let's make an example:
 
 .. figure:: videos/sine_movement.gif
-  :width: 300
+  :width: 250
   :alt: Sine Movement
   :align: center
 
@@ -38,6 +38,7 @@ To write an expression click with the mouse on the field and type what you need.
 .. figure:: images/sine_movement_gn_gs.jpg
   :width: 600
   :alt: Sine Movement Geometry Nodes
+  :align: center
 
   On the left is how you make the movement in Geometry Nodes on the right in Geostack.
 
