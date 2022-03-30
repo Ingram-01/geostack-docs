@@ -35,17 +35,17 @@ To write an expression click with the mouse on the field and type what you need.
 
   A cube that move up and down
 
-This is how you make the movement in Geometry Nodes.
-
 .. figure:: images/sine_movement_gn.jpg
   :width: 600
   :alt: Sine Movement Geometry Nodes
 
-And this is the Geostack equivalent.
+  This is how you make the movement in Geometry Nodes.
 
 .. figure:: images/sine_movement_gs_1.jpg
   :width: 400
   :alt: Sine Movement Geostack
+
+  And this is the Geostack equivalent.
 
 .. _values:
 
