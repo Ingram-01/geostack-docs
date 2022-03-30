@@ -60,13 +60,13 @@ Vector
 ----------------
 
 | Representation of 3D vectors.
-| You can use in expressions as v(x,y,z).
+| You can use them in expressions as v( x, y, z ).
 
 .. figure:: videos/vector.gif
   :width: 400
   :alt: Add Expression
   
-  Example of vector declaration.
+  Example of a new vector.
 
 Euler
 ----------------
