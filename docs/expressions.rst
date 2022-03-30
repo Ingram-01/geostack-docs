@@ -30,7 +30,7 @@ To write an expression click with the mouse on the field and type what you need.
 | Let's make an example:
 
 .. figure:: videos/sine_movement.gif
-  :width: 200
+  :width: 300
   :alt: Sine Movement
 
   A cube that move up and down
