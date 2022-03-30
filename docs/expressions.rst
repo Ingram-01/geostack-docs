@@ -38,13 +38,13 @@ To write an expression click with the mouse on the field and type what you need.
 This is how you make this in Geometry Nodes.
 
 .. figure:: images/sine_movement_gn.jpg
-  :width: 400
+  :width: 600
   :alt: Sine Movement Geometry Nodes
 
 And this is the Geostack equivalent.
 
 .. figure:: images/sine_movement_gs.jpg
-  :width: 400
+  :width: 200
   :alt: Sine Movement Geostack
 
 .. _values:
@@ -96,6 +96,7 @@ Representation of 3D vectors and points as x,y,z
 
 Built-In Functions
 ------------
+
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
