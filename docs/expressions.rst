@@ -21,18 +21,31 @@ To write an expression click with the mouse on the field and type what you need.
 
   In this example we simply write a single value
 
-| Expressions support :ref:`values`, maths, links, arrays, Built-In functions and constants.
+| Expressions support :ref:`_values`, maths, links, arrays, Built-In functions and constants.
 | You can concatenates all of this until you get the desired result.
 | It's similar when you use Nodes and you link outputs and inputs but,
 | instead to use nodes, you use text.
 | Expressions are basicaly the text way to do spaghetti nodes. 
 
+.. _values:
+
 Values
 =====
 
-Use Vectors
+Float
 ----------------
 
+Int
+----------------
+
+Boolean
+----------------
+
+Vectors
+----------------
+
+Expression
+----------------
 
 Get A Slot
 ----------------
@@ -50,6 +63,10 @@ Constants are Built-In fixed variables that you can use whatever you want.
   :alt: Constants
 
   An example of constants
+
+Ternary
+=====
+
 
 Links
 =====
