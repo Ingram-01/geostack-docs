@@ -80,10 +80,11 @@ Vector
   Example of a new vector.
   
 | Vectors support almost all operations and also support all functions of the `Python Blender Api`_
-.. _Python Blender Api: https://docs.blender.org/api/current/index.html
 | If you want learn about, more `here`_.
 
 .. _here: https://docs.blender.org/api/current/mathutils.html#mathutils.Vector
+
+.. _Python Blender Api: https://docs.blender.org/api/current/index.html
 
 ------------
 Euler
