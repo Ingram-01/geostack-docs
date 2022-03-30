@@ -43,8 +43,8 @@ This is how you make the movement in Geometry Nodes.
 
 And this is the Geostack equivalent.
 
-.. figure:: images/sine_movement_gs.jpg
-  :width: 200
+.. figure:: images/sine_movement_gs_1.jpg
+  :width: 400
   :alt: Sine Movement Geostack
 
 .. _values:
