@@ -36,7 +36,7 @@ To write an expression click with the mouse on the field and type what you need.
   A cube that move up and down.
 
 .. figure:: images/sine_movement_gn_gs.jpg
-  :width: 600
+  :width: 700
   :alt: Sine Movement Geometry Nodes
   :align: center
 
