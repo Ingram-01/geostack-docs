@@ -277,6 +277,7 @@ Basics
   * :ref:`boolean`
   * :ref:`vector`
   * :ref:`euler`
+  * Transform
   * Expression
   * :ref:`object`
   * List
