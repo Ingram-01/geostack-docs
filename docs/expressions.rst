@@ -120,7 +120,7 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
-This is the list of all constants
+This is the list of all constants (more in the next updates)
 
 .. py:data:: v_zero 
 
