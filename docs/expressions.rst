@@ -140,7 +140,7 @@ Built-In Functions and Constants
 Constants
 ------------
 
-| Constants are read-only porperties that you can use whatever you want.
+| Constants are read-only properties that you can use whatever you want.
 
 .. figure:: videos/constants_1.gif
   :width: 400
