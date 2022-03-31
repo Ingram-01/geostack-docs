@@ -278,15 +278,15 @@ Basics
   * :ref:`boolean`
   * :ref:`vector`
   * :ref:`euler`
-  * Transform
-  * Expression
+  * :ref:`_transform`
+  * :ref:`_links_expressions`
   * :ref:`object`
-  * List
+  * :ref:`link_lists`
 
-.. _arrays:
+.. _link_lists:
 
 ------------
-Arrays
+Lists
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -303,6 +303,14 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 ------------
 Object
+----------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _transform:
+
+------------
+Transform
 ----------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
