@@ -272,6 +272,7 @@ Basics
 | 2 - The only special character allowed is the Underscore, so no points, signs, or parenthesis.
 
 * Links types are:
+  
   * :ref:`float`
   * :ref:`int`
   * :ref:`boolean`
