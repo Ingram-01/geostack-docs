@@ -106,8 +106,8 @@ Representation of 3D vectors and points as x,y,z.
 Object
 ------------
 
-| A Blender Object reference.
-| You ca use it with links like this:
+| A Blender Object reference. Supports almost all blender properties.
+| You can use it with links like this:
 | *image here*
 | More `here`_.
 
@@ -124,7 +124,7 @@ Transform
 |   Rotation :ref:`euler`
 |   Size :ref:`vector`
 
-| You ca use it with links like this:
+| You can use it with links like this:
 | *image here*
 
 .. _builtin:
@@ -142,7 +142,7 @@ Built-In Functions and Constants
 Constants
 ------------
 
-Constants are Built-In fixed variables that you can use whatever you want.
+| Constants are read-only Built-In variables that you can use whatever you want.
 
 .. figure:: videos/constants_1.gif
   :width: 400
