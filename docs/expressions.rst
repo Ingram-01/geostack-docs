@@ -4,7 +4,9 @@ Expressions
 Basics
 ------------
 
-| Expressions are text/strings that you can use with Geostack to take control of a property.
+.. _Geostack: https://geostack-docs.readthedocs.io/en/latest/index.html
+
+| Expressions are text/strings that you can use with `Geostack`_ to take control of a property.
 | They are located under any property that supported it.
 
 .. figure:: images/expression_field_2.jpg
