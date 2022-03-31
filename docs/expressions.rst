@@ -4,7 +4,7 @@ Expressions
 Basics
 ------------
 
-| Expressions are text/strings that you can use with Geostack for take control of a property.  
+| Expressions are text/strings that you can use with Geostack to take control of a property.
 | They are located under any property that supported it.
 
 .. figure:: images/expression_field_2.jpg
@@ -72,7 +72,7 @@ Bool
 Vector
 ------------
 
-| Representation of 3D vectors.
+| 3D vector with floating-point values.
 | You can use them in expressions as v(x,y,z) or x,y,z if you only need one single value.
 
 .. figure:: videos/vector.gif
@@ -98,7 +98,7 @@ Representation of 3D vectors and points as x,y,z
 
 .. _builtin:
 
-Built-In Functions
+Built-In Functions and Constants
 ------------
 
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -118,9 +118,9 @@ Constants are Built-In fixed variables that you can use whatever you want.
   :alt: Constants
   :align: center
 
-  An example of constants
+  An example of constants.
 
-This is the list of all constants (more in the next updates)
+This is the list of all constants (more elements in the next updates)
 
 .. py:data:: v_zero 
 
@@ -256,7 +256,18 @@ Links
 Basics
 ------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+| Links are custom global properties that you can use whatever you want in expressions.
+| You can create a new link in the links panel.
+
+.. figure:: videos/links.jpg
+  :width: 400
+  :alt: Link Panel
+
+| Links naming convention have two rules:
+| 1 - Every links name must be a Title Case (so no lower case for the first character). 
+| 2 - The only special character allowed is the Underscore, so no points, signs, or parenthesis.
+|  
+
 
 .. _arrays:
 
