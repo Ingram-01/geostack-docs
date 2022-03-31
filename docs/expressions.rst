@@ -53,11 +53,15 @@ Float
 
 Floating point real values: 0.5, 1.0, 2.1 etc...
 
+.. _int:
+
 ------------
 Int
 ------------
 
 Signed Integer: 1, 2, 3, 4 etc..
+
+.. _bool:
 
 ------------
 Bool
@@ -266,8 +270,16 @@ Basics
 | Links naming convention have two rules:
 | 1 - Every links name must be a Title Case (so no lower case for the first character). 
 | 2 - The only special character allowed is the Underscore, so no points, signs, or parenthesis.
-|  
 
+* Links types are:
+  * :ref:`float`
+  * :ref:`int`
+  * :ref:`boolean`
+  * :ref:`vector`
+  * :ref:`euler`
+  * Expression
+  * :ref:`object`
+  * List
 
 .. _arrays:
 
