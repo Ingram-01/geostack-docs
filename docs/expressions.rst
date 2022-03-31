@@ -264,10 +264,10 @@ Basics
 | They can be managed easily in the links panel.
 
 .. figure:: images/links.jpg
-  :width: 400
+  :width: 300
   :alt: Link Panel
 
-| Links naming convention have two rules:
+| Links have a naming convention and have two rules:
 | 1 - Every links name must be a Title Case (so no lower case for the first character). 
 | 2 - The only special character allowed is the Underscore, so no points, signs, or parenthesis.
 
