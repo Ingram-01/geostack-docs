@@ -256,9 +256,8 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Maths
 ------------
 
-| These are compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_.
-| If you need a function that is not present in this list you can try to write *"math."* before the function name  (ex: math.sin(1)), 
-| but be aware that doing this, cannot be stable and can give you errors.
+These are compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_. 
+If you need a function that is not present in this list you can try to write *"math."* before the function name  (ex: math.sin(1)), but be aware that doing this, cannot be stable and can give you errors.
 
 .. py:function:: sin(x)
 
