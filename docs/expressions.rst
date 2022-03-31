@@ -220,7 +220,7 @@ This is the list of all constants (more elements in the next updates)
 
 
 ------------
-Slot Reference
+Slot Get
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -278,8 +278,8 @@ Basics
   * :ref:`boolean`
   * :ref:`vector`
   * :ref:`euler`
-  * :ref:`_transform`
-  * :ref:`_links_expressions`
+  * :ref:`transform`
+  * :ref:`links_expressions`
   * :ref:`object`
   * :ref:`link_lists`
 
