@@ -118,13 +118,43 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
-This is a list of all constants
+This is the list of all constants
 
 .. py:data:: v_zero 
-    :type: :ref:`vector` 
-    :value: (0,0,0)
 
-    A Zero Vector
+    A Zero :ref:`vector` v(0,0,0)
+
+.. py:data:: v_one 
+
+    A One :ref:`vector` v(1,1,1)
+
+.. py:data:: v_up 
+
+    Directional up :ref:`vector` v(0,0,1)
+
+.. py:data:: v_down 
+
+    Directional down :ref:`vector` v(0,0,1)
+
+.. py:data:: v_right 
+
+    Directional right :ref:`vector` v(0,0,1)
+
+.. py:data:: v_left 
+
+    Directional left :ref:`vector` v(0,0,1)
+
+.. py:data:: v_for 
+
+    Directional forward :ref:`vector` v(0,0,1)
+
+.. py:data:: v_back 
+
+    Directional backward :ref:`vector` v(0,0,1)
+
+.. py:data:: v_half 
+
+    An half :ref:`vector` v(0.5,0.5,0.5)
 
 ------------
 Slot Reference
