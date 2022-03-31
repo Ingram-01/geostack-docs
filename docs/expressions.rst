@@ -257,7 +257,7 @@ Maths
 ------------
 
 | This are a compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_.
-| If you need a function that is not present in this list you can try with write *"math."* before the function, but be aware that can give you an error.
+| If you need a function that is not present in this list you can try with write *"math."* before the function name, but be aware that can give you an error.
 
 .. py:function:: sin(x)
 
