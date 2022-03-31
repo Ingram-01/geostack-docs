@@ -275,7 +275,7 @@ Basics
   
   * :ref:`float`
   * :ref:`int`
-  * :ref:`boolean`
+  * :ref:`bool`
   * :ref:`vector`
   * :ref:`euler`
   * :ref:`transform`
