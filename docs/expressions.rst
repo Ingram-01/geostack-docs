@@ -256,14 +256,16 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Maths
 ------------
 
-| This is are a compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_.
-| If you need a function that is not present in this list you can try with write *math.* before the function, but be aware that can give you an error.
+| This are a compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_.
+| If you need a function that is not present in this list you can try with write *"math."* before the function, but be aware that can give you an error.
 
 .. py:function:: sin(x)
 
+    Return the sine of x radians.
+
 .. py:function:: cos(x)
 
-.. py:function:: sqrt(x)
+    Return the cosine of x radians.
 
 .. py:function:: floor(x)
 
@@ -277,15 +279,30 @@ Maths
 
 .. py:function:: sqrt(x)
 
+    Return the square root of x.
+
 .. py:function:: atan(x)
 
-.. py:function:: radians(x)
+    Return the arc tangent of x, in radians. The result is between -pi/2 and pi/2.
 
 .. py:function:: tan(x)
 
-.. py:function:: degrees(x)
+    Return the tangent of x radians.
 
 .. py:function:: atan2(y, x)
+
+    Return atan(y / x), in radians. The result is between -pi and pi. 
+    The vector in the plane from the origin to point (x, y) makes this angle with the positive X axis. 
+    The point of atan2() is that the signs of both inputs are known to it, so it can compute the correct quadrant for the angle. 
+    For example, atan(1) and atan2(1, 1) are both pi/4, but atan2(-1, -1) is -3*pi/4.
+
+.. py:function:: radians(x)
+
+    Convert angle x from degrees to radians.
+
+.. py:function:: degrees(x)
+
+    Convert angle x from radians to degrees.
 
 .. py:function:: factorial(x)
 
@@ -293,13 +310,23 @@ Maths
 
 .. py:function:: frexp(x)
 
+.. py:function:: log(x)
+
+    With one argument, return the natural logarithm of x (to base e).
+    With two arguments, return the logarithm of x to the given base, calculated as log(x)/log(base).
+
 .. py:function:: log10(x)
 
-.. py:function:: log(x)
+    Return the base-10 logarithm of x. This is usually more accurate than log(x, 10).
 
 .. py:function:: log2(x)
 
+    Return the base-2 logarithm of x. This is usually more accurate than log(x, 2).
+
 .. py:function:: log1p(x)
+
+    Return the natural logarithm of 1+x (base e). 
+    The result is calculated in a way which is accurate for x near zero.
 
 .. py:function:: exp(x)
 
