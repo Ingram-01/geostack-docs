@@ -66,6 +66,8 @@ Bool
 | Booleans represent one of two values: True or False.
 | Usefull in :ref:`ternary`.
 
+.. _vector:
+
 ------------
 Vector
 ------------
@@ -119,7 +121,7 @@ Constants are Built-In fixed variables that you can use whatever you want.
 This is a list of all constants
 
 .. py:data:: v_zero 
-    :type: Vector 
+    :type: :ref:`vector` 
     :value: (0,0,0)
 
     A Zero Vector
