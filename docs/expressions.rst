@@ -124,95 +124,95 @@ This is the list of all constants (more in the next updates)
 
 .. py:data:: v_zero 
 
-    A Zero :ref:`vector` v(0,0,0)
+    A Zero :ref:`vector` = v(0,0,0)
 
 .. py:data:: v_one 
 
-    A One :ref:`vector` v(1,1,1)
+    A One :ref:`vector` = v(1,1,1)
 
 .. py:data:: v_half 
 
-    An half :ref:`vector` v(0.5,0.5,0.5)
+    An half :ref:`vector` = v(0.5,0.5,0.5)
 
 .. py:data:: v_up 
 
-    Directional up :ref:`vector` v(0,0,1)
+    Directional up :ref:`vector` = v(0,0,1)
 
 .. py:data:: v_down 
 
-    Directional down :ref:`vector` v(0,0,-1)
+    Directional down :ref:`vector` = v(0,0,-1)
 
 .. py:data:: v_right 
 
-    Directional right :ref:`vector` v(1,0,0)
+    Directional right :ref:`vector` = v(1,0,0)
 
 .. py:data:: v_left 
 
-    Directional left :ref:`vector` v(-1,0,0)
+    Directional left :ref:`vector` = v(-1,0,0)
 
 .. py:data:: v_for 
 
-    Directional forward :ref:`vector` v(0,1,0)
+    Directional forward :ref:`vector` = v(0,1,0)
 
 .. py:data:: v_back 
 
-    Directional backward :ref:`vector` v(0,-1,0)
+    Directional backward :ref:`vector` = v(0,-1,0)
 
 .. py:data:: v_yz 
 
-    0XY :ref:`vector` v(0,1,1)
+    0XY :ref:`vector` = v(0,1,1)
 
 .. py:data:: v_xz 
 
-    X0Z :ref:`vector` v(1,0,1)
+    X0Z :ref:`vector` = v(1,0,1)
 
 .. py:data:: v_xy 
 
-    XY0 :ref:`vector` v(1,1,0)
+    XY0 :ref:`vector` = v(1,1,0)
 
 .. py:data:: e_zero 
 
-    A Zero :ref:`euler` e(0,0,0)
+    A Zero :ref:`euler` = e(0,0,0)
 
 .. py:data:: e_x45
 
-    A X 45° :ref:`euler` e(45,0,0)
+    A X 45° :ref:`euler` = e(45,0,0)
 
 .. py:data:: e_x90
 
-    A X 90° :ref:`euler` e(90,0,0)
+    A X 90° :ref:`euler` = e(90,0,0)
 
 .. py:data:: e_x180
 
-    A X 180° :ref:`euler` e(180,0,0)
+    A X 180° :ref:`euler` = e(180,0,0)
 
 .. py:data:: e_y45
 
-    A Y 45° :ref:`euler` e(0,45,0)
+    A Y 45° :ref:`euler` = e(0,45,0)
 
 .. py:data:: e_y90
 
-    A Y 90° :ref:`euler` e(0,90,0)
+    A Y 90° :ref:`euler` = e(0,90,0)
 
 .. py:data:: e_y180
 
-    A Y 180° :ref:`euler` e(0,180,0)
+    A Y 180° :ref:`euler` = e(0,180,0)
 
 .. py:data:: e_z45
 
-    A Z 45° :ref:`euler` e(0,0,45)
+    A Z 45° :ref:`euler` = e(0,0,45)
 
 .. py:data:: e_z90
 
-    A Z 90° :ref:`euler` e(0,0,90)
+    A Z 90° :ref:`euler` = e(0,0,90)
 
 .. py:data:: e_z180
 
-    A Z 180° :ref:`euler` e(0,0,180)
+    A Z 180° :ref:`euler` = e(0,0,180)
 
 .. py:data:: epsilon
 
-    Epsilon number :ref:`float` 0.00001
+    Epsilon number :ref:`float` = 0.00001
 
 
 ------------
