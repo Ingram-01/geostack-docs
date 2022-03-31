@@ -25,7 +25,7 @@ To write an expression click with the mouse on the field and type what you need.
 
 | Expressions support: :ref:`values`, :ref:`operators`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`builtin` and :ref:`constants`.
 | You can concatenate all of this until you get the desired result.
-| It is similar when you use a node editor and link outputs and inputs but, instead of using nodes, you use text.
+| It is similar when you link inputs and outputs in a node editor but, instead of using nodes, you use text.
 | Let's make an example:
 
 .. figure:: videos/sine_movement.gif
@@ -256,7 +256,54 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Maths
 ------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+| This is are a compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_.
+| If you need a function that is not present in this list you can try with write *math.* before the function, but be aware that can give you an error.
+
+.. py:function:: sin(x)
+
+.. py:function:: cos(x)
+
+.. py:function:: sqrt(x)
+
+.. py:function:: floor(x)
+
+.. py:function:: fmod(x)
+
+.. py:function:: acos(x)
+
+.. py:function:: ceil(x)
+
+.. py:function:: pow(x)
+
+.. py:function:: sqrt(x)
+
+.. py:function:: atan(x)
+
+.. py:function:: radians(x)
+
+.. py:function:: tan(x)
+
+.. py:function:: degrees(x)
+
+.. py:function:: atan2(y, x)
+
+.. py:function:: factorial(x)
+
+.. py:function:: fmod(x)
+
+.. py:function:: frexp(x)
+
+.. py:function:: log10(x)
+
+.. py:function:: log(x)
+
+.. py:function:: log2(x)
+
+.. py:function:: log1p(x)
+
+.. py:function:: exp(x)
+
+.. py:function:: expm1(x)
 
 .. _operators:
 
@@ -359,3 +406,6 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
     "v_back = x:0 y:-1 z:0 \n",
     "e_zero = x:0 y:0 z:0 \n",
     "epsilon = 0.00001 \n",
+
+    This is for the basics math
+    | One of the pillars of `Geostack`_ expressions are the compactness. You can only write you
