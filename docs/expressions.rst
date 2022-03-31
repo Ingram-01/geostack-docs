@@ -85,10 +85,10 @@ Vector
   
   Example of a new vector.
   
+.. _here: https://docs.blender.org/api/current/mathutils.html#mathutils.Vector
+
 | Vectors support almost all operations and also support all functions of the `Python Blender Api`_
 | If you want to learn, more `here`_.
-
-.. _here: https://docs.blender.org/api/current/mathutils.html#mathutils.Vector
 
 .. _Python Blender Api: https://docs.blender.org/api/current/index.html
 
@@ -106,12 +106,14 @@ Representation of 3D vectors and points as x,y,z.
 Object
 ------------
 
+.. _here: https://docs.blender.org/api/current/bpy.types.Object.html#bpy.types.Object
+
 | A Blender Object reference. Supports almost all blender properties.
 | You can use it with links like this:
 | *image here*
 | More `here`_.
 
-.. _here: https://docs.blender.org/api/current/bpy.types.Object.html#bpy.types.Object
+
 
 .. _transform:
 
