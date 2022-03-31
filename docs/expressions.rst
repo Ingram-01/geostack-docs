@@ -261,7 +261,7 @@ Basics
 ------------
 
 | Links are custom global properties that you can use whatever you want in expressions.
-| You can create a new link in the links panel.
+| They can be managed easily in the links panel.
 
 .. figure:: videos/links.jpg
   :width: 400
