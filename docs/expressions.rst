@@ -116,8 +116,10 @@ Constants are Built-In fixed variables that you can use whatever you want.
 
   An example of constants
 
+This is a list of all constants
+
 .. py:data:: v_zero 
-    :type: Vector
+    :type: Vector 
     :value: (0,0,0)
 
     A Zero Vector
