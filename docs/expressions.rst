@@ -98,7 +98,34 @@ Vector
 Euler
 ------------
 
-Representation of 3D vectors and points as x,y,z
+Representation of 3D vectors and points as x,y,z.
+
+.. _object:
+
+------------
+Object
+------------
+
+| A Blender Object reference.
+| You ca use it with links like this:
+| *image here*
+| More `here`_.
+
+.. _here: https://docs.blender.org/api/current/bpy.types.Object.html#bpy.types.Object
+
+.. _transform:
+
+------------
+Transform
+------------
+
+| Transform is a property that contain:
+|   Location :ref:`vector`
+|   Rotation :ref:`euler`
+|   Size :ref:`vector`
+
+| You ca use it with links like this:
+| *image here*
 
 .. _builtin:
 
@@ -286,7 +313,7 @@ Basics
 .. _link_lists:
 
 ------------
-Lists
+Link Lists
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -294,23 +321,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 .. _links_expressions:
 
 ------------
-Expression
-------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
-.. _object:
-
-------------
-Object
-------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
-.. _transform:
-
-------------
-Transform
+Link Expression
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
