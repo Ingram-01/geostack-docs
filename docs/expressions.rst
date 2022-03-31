@@ -31,7 +31,7 @@ To write an expression click with the mouse on the field and type what you need.
   :alt: Sine Movement
   :align: center
 
-  A cube that move up and down.
+  A cube that float up and down.
 
 .. figure:: images/sine_movement_gn_gs.jpg
   :width: 700
