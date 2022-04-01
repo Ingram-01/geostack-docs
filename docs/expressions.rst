@@ -29,7 +29,7 @@ To write an expression click with the mouse on the field and start to type.
   * :ref:`operators`
   * :ref:`maths`
   * :ref:`links`
-  * :ref:`arrays`
+  * :ref:`lists`
   * :ref:`builtin`
   
 | You can concatenate all of this until you get the desired value.
@@ -251,12 +251,26 @@ This is the list of all constants (more elements in the next updates)
 
     Epsilon number :ref:`float` = 0.00001
 
+.. _slot_get:
 
 ------------
 Slot Get
 ------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+To get a property of another slot, the method that you can use in `Geostack` expression is:
+
+.. py:function:: s( index : int, property_name : string )
+
+| You can find the index in the slot panel and is the first number on the menu slot selector.
+| *image here*
+
+| Slot Get is a polymorphic function that is, it supports various combinations for various needs.
+| For example, if at some point, you decide to move a slot in the stack, the index you are aiming for inevitably changes and consequently you will lose the previous reference.
+| To overcome this, the solution is:
+
+.. py:function:: s( uid : string, property_name : string )
+
+| Where "uid" simply stands for "Unique ID". It is created and assigned every time a slot is added to the stack, it is permanent and therefore guarantees a stable reference, even when the order of the stack changes.
 
 .. _maths:
 
@@ -388,12 +402,12 @@ Basics
   * :ref:`transform`
   * :ref:`links_expressions`
   * :ref:`object`
-  * :ref:`link_lists`
+  * :ref:`lists`
 
-.. _link_lists:
+.. _lists:
 
 ------------
-Link Lists
+Lists
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
