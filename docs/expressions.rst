@@ -261,7 +261,7 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
 .. py:function:: s( index : int, property_name : string )
 
-| You can find the index in the slot panel and is the first number on the menu slot selector.
+| You can find the index in the slot panel and is the first number in the menu slot selector.
 | *image here*
 
 | Slot Get is a polymorphic function that is, it supports various combinations for various needs.
