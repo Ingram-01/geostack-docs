@@ -271,6 +271,11 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
 | Slot Get is a polymorphic function that is, it supports various combinations for various needs.
 | For example, if at some point, you decide to move a slot in the stack, the index you are aiming for, inevitably changes and consequently you will lose the previous reference.
+| To overcome this, the solution is:
+
+.. py:function:: s( uid : string, property_name : string )
+
+| Where "uid" simply stands for "Unique ID". It is created and assigned every time a slot is added to the stack, it is permanent and therefore guarantees a stable reference, even when the order of the stack changes.
 
 .. figure:: images/uid.jpg
   :width: 300
@@ -278,12 +283,6 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
   The Unique Index.
 
-| To overcome this, the solution is:
-
-.. py:function:: s( uid : string, property_name : string )
-
-| Where "uid" simply stands for "Unique ID". It is created and assigned every time a slot is added to the stack, it is permanent and therefore guarantees a stable reference, even when the order of the stack changes.
-|
 | There are cases where simply referring to an index is not enough, for example, when you want to have the property of a slot that supports a sub-list like "Multi Boolean" or "Set Vertex Group", not only do you need to refer to the slot, but also to refer to its children.
 | To do this you can use:
 
