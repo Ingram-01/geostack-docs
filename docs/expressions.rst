@@ -263,14 +263,21 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
 | You can find the index in the slot panel and is the first number in the menu slot selector.
 
-.. figure:: imagesd/index.jpg
+.. figure:: images/index.jpg
   :width: 300
   :alt: Slot Index
   
-  Index an unique ID.
+  The Slot Index.
 
 | Slot Get is a polymorphic function that is, it supports various combinations for various needs.
 | For example, if at some point, you decide to move a slot in the stack, the index you are aiming for, inevitably changes and consequently you will lose the previous reference.
+
+.. figure:: images/uid.jpg
+  :width: 300
+  :alt: Slot Index
+
+  The Unique Index.
+
 | To overcome this, the solution is:
 
 .. py:function:: s( uid : string, property_name : string )
