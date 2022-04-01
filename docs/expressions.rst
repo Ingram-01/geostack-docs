@@ -302,8 +302,9 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 Maths
 ------------
 
-These are compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_. 
-If you need a function that is not present in this list you can try to write *"math."* followed by the function name  (**example**: math.sin(1)), but be aware that doing this, cannot be stable and can give you errors.
+| These are compact version functions of `python maths module <https://docs.python.org/3/library/math.html>`_. 
+| If you need a function that is not present in this list you can try to write *"math."* followed by the function name  (**example**: math.sin(1)), but be aware that doing this, cannot be stable and can give you errors.
+| Of course, the compact list is continuously updated.
 
 .. py:function:: sin(x)
 
@@ -315,13 +316,21 @@ If you need a function that is not present in this list you can try to write *"m
 
 .. py:function:: floor(x)
 
+    Return the floor of x.
+
+.. py:function:: ceil(x)
+
+    Return the ceiling of x, the smallest integer greater than or equal to x.
+
 .. py:function:: fmod(x)
 
 .. py:function:: acos(x)
 
-.. py:function:: ceil(x)
+    Return the arc cosine of x, in radians. The result is between 0 and pi.
 
 .. py:function:: pow(x)
+
+    Return x raised to the power y.
 
 .. py:function:: sqrt(x)
 
@@ -352,9 +361,14 @@ If you need a function that is not present in this list you can try to write *"m
 
 .. py:function:: factorial(x)
 
+    Return x factorial as an integer.
+
 .. py:function:: fmod(x)
 
 .. py:function:: frexp(x)
+
+    Return the mantissa and exponent of x as the pair (m, e). m is a float and e is an integer such that x == m * 2**e exactly. 
+    If x is zero, returns (0.0, 0), otherwise 0.5 <= abs(m) < 1.
 
 .. py:function:: log(x)
 
@@ -376,7 +390,14 @@ If you need a function that is not present in this list you can try to write *"m
 
 .. py:function:: exp(x)
 
+    Return e raised to the power x, where e = 2.718281… is the base of natural logarithms.
+
 .. py:function:: expm1(x)
+
+    Return e raised to the power x, minus 1.
+
+| This instead is a mix of compact `bl_math https://docs.blender.org/api/current/bl_math.html`_ module and custom `Geostack`_ functions.
+| If you want use the bl_math ones, you can try to write *"bl_math."* followed by the function name  (**example**: bl_math.clam(x,min,max)), and like the math module, can be unstable and give's you errors.
 
 .. _operators:
 
@@ -412,9 +433,9 @@ Basics
   :width: 300
   :alt: Link Panel
 
-| Links have a naming convention and have two rules:
+| Links have a naming convention with two rules:
 | 1 - Every links name must be a Title Case (so no lower case for the first character). 
-| 2 - The only special character allowed is the Underscore, so no points, signs, or parenthesis.
+| 2 - The only special character allowed is the Underscore, so no points, signs, parenthesis etc...
 
 * Links types are:
   
