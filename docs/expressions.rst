@@ -411,13 +411,13 @@ Maths
     Smooth Step. Performs smooth interpolation between 0 and 1 as value changes between from and to values. 
     Outside the range the function returns the same value as the nearest edge.
 
-.. py:function:: snap(x,size)
+.. py:function:: snap(x,factor)
 
-    Snap a float by size (like snap to grid)
+    Snap a float by factor (like snap to grid)
 
-.. py:function:: vsnap(x,size)
+.. py:function:: vsnap(x,factor)
 
-    Snap a Vector by size (like snap to grid)
+    Snap a Vector by factor (like snap to grid)
 
 .. py:function:: random(x)
 
