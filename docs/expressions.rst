@@ -257,7 +257,7 @@ This is the list of all constants (more elements in the next updates)
 Slot Get
 ------------
 
-To get a property of another slot, the method that you can use in `Geostack` expression is:
+To get a property of another slot, the method that you can use in a `Geostack`_ expression is:
 
 .. py:function:: s( index : int, property_name : string )
 
@@ -265,7 +265,7 @@ To get a property of another slot, the method that you can use in `Geostack` exp
 | *image here*
 
 | Slot Get is a polymorphic function that is, it supports various combinations for various needs.
-| For example, if at some point, you decide to move a slot in the stack, the index you are aiming for inevitably changes and consequently you will lose the previous reference.
+| For example, if at some point, you decide to move a slot in the stack, the index you are aiming for, inevitably changes and consequently you will lose the previous reference.
 | To overcome this, the solution is:
 
 .. py:function:: s( uid : string, property_name : string )
