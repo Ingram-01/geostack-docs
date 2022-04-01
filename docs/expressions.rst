@@ -269,7 +269,7 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
   
   The Slot Index.
 
-| Slot Get is a polymorphic function that is, it supports various combinations for various needs.
+| Slot Get is a polymorphic function that supports various combinations for various needs.
 | For example, if at some point, you decide to move a slot in the stack, the index you are aiming for, inevitably changes and consequently you will lose the previous reference.
 | To overcome this, the solution is:
 
