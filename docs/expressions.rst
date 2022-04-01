@@ -396,8 +396,48 @@ Maths
 
     Return e raised to the power x, minus 1.
 
-| This instead is a mix of compact `bl_math https://docs.blender.org/api/current/bl_math.html`_ module and custom `Geostack`_ functions.
-| If you want use the bl_math ones, you can try to write *"bl_math."* followed by the function name  (**example**: bl_math.clam(x,min,max)), and like the math module, can be unstable and give's you errors.
+| This instead is a mix of compact `bl_math https://docs.blender.org/api/current/bl_math.html`_ module and internal `Geostack`_ functions.
+
+.. py:function:: lerp(x,y,t)
+
+    Linearly interpolate between two float values based on factor.
+
+.. py:function:: clamp(x,min,max)
+
+    Clamps the float value between minimum and maximum. To avoid confusion, any call must use either one or all three arguments.
+
+.. py:function:: s_step(from_value, to_value, value)
+
+    Smooth Step. Performs smooth interpolation between 0 and 1 as value changes between from and to values. 
+    Outside the range the function returns the same value as the nearest edge.
+
+.. py:function:: snap(x,size)
+
+    Snap a float by a size (like snap to grid)
+
+.. py:function:: vsnap(x,size)
+
+    Snap a Vector by a size (like snap to grid)
+
+.. py:function:: random(x)
+
+    Random Value
+
+.. py:function:: snoise(x)
+
+    Smooth Noise
+
+.. py:function:: svnoise(x)
+
+    Smooth Noise for Vectors
+
+.. py:function:: dir_to_eu(x)
+
+    Transform a directional vector (like v_up,v_right etc...) to an euler rotation
+
+.. py:function:: rot_diff(v1,v2)
+
+    Returns a quaternion representing the rotational difference between this vector and another.
 
 .. _operators:
 
