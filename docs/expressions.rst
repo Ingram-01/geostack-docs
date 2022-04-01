@@ -281,6 +281,12 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
 .. py:function:: s( uid : string, sub_index : int, property_name : string )
 
+| You can add another level of index for slots that support groups like "Knife" and "Lines":
+
+.. py:function:: s( index : int, group_index : int, point_index : int, property_name : string )
+
+.. py:function:: s( uid : string, group_index : int, point_index : int, property_name : string )
+
 .. _maths:
 
 ------------
