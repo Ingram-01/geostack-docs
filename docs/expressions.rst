@@ -135,7 +135,7 @@ Transform
 
 .. _builtin:
 
-Built-In Functions and Constants
+Built-In Functions, Constants and Variables
 ------------
 
 | Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
@@ -250,6 +250,15 @@ This is the list of all constants (more elements in the next updates)
 .. py:data:: epsilon
 
     Epsilon number :ref:`float` = 0.00001
+
+.. _read_only:
+
+------------
+Reaod-Only Variables
+------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
 
 .. _slot_get:
 
