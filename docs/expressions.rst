@@ -133,6 +133,57 @@ Transform
 | You can use it with links like this:
 | *image here*
 
+
+.. _links:
+
+Links
+------------
+
+.. _links_basics:
+
+------------
+Basics
+------------
+
+| Links are custom global properties that you can use whatever you want in expressions.
+| They can be managed easily in the links panel.
+
+.. figure:: images/links.jpg
+  :width: 300
+  :alt: Link Panel
+
+| Links have a naming convention with two rules:
+| 1 - Every links name must be a Title Case (so no lower case for the first character). 
+| 2 - The only special character allowed is the Underscore, so no points, signs, parenthesis etc...
+
+* Links types are:
+  
+  * :ref:`float`
+  * :ref:`int`
+  * :ref:`bool`
+  * :ref:`vector`
+  * :ref:`euler`
+  * :ref:`transform`
+  * :ref:`links_expressions`
+  * :ref:`object`
+  * :ref:`lists`
+
+.. _lists:
+
+------------
+Lists
+------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _links_expressions:
+
+------------
+Link Expression
+------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
 .. _builtin:
 
 Built-In Functions, Constants and Variables
@@ -464,55 +515,6 @@ Ternary
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-.. _links:
-
-Links
-------------
-
-.. _links_basics:
-
-------------
-Basics
-------------
-
-| Links are custom global properties that you can use whatever you want in expressions.
-| They can be managed easily in the links panel.
-
-.. figure:: images/links.jpg
-  :width: 300
-  :alt: Link Panel
-
-| Links have a naming convention with two rules:
-| 1 - Every links name must be a Title Case (so no lower case for the first character). 
-| 2 - The only special character allowed is the Underscore, so no points, signs, parenthesis etc...
-
-* Links types are:
-  
-  * :ref:`float`
-  * :ref:`int`
-  * :ref:`bool`
-  * :ref:`vector`
-  * :ref:`euler`
-  * :ref:`transform`
-  * :ref:`links_expressions`
-  * :ref:`object`
-  * :ref:`lists`
-
-.. _lists:
-
-------------
-Lists
-------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
-.. _links_expressions:
-
-------------
-Link Expression
-------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 .. 
     To retrieve a list of random ingredients,
