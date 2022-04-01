@@ -413,11 +413,11 @@ Maths
 
 .. py:function:: snap(x,size)
 
-    Snap a float by a size (like snap to grid)
+    Snap a float by size (like snap to grid)
 
 .. py:function:: vsnap(x,size)
 
-    Snap a Vector by a size (like snap to grid)
+    Snap a Vector by size (like snap to grid)
 
 .. py:function:: random(x)
 
@@ -427,7 +427,7 @@ Maths
 
     Smooth Noise
 
-.. py:function:: svnoise(x)
+.. py:function:: svnoise(v)
 
     Smooth Noise for Vectors
 
@@ -437,7 +437,7 @@ Maths
 
 .. py:function:: rot_diff(v1,v2)
 
-    Returns a quaternion representing the rotational difference between this vector and another.
+    Rotation dfifference. Returns a quaternion representing the rotational difference between this vector and another.
 
 .. _operators:
 
