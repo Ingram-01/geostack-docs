@@ -305,11 +305,10 @@ This is the list of all constants (more elements in the next updates)
 .. _read_only:
 
 ------------
-Reaod-Only Variables
+Read-Only Variables
 ------------
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-
 
 .. _slot_get:
 
@@ -499,6 +498,19 @@ Maths
 
     Rotation dfifference. Returns a quaternion representing the rotational difference between this vector and another.
 
+.. _ternary:
+
+------------
+Ternary
+------------
+
+Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+
+.. _python functions:
+
+Python Functions
+------------
+
 .. _operators:
 
 ------------
@@ -507,13 +519,6 @@ Operators
 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
-.. _ternary:
-
-------------
-Ternary
-------------
-
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
 
 .. 
