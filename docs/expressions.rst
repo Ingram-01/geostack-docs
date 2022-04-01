@@ -270,9 +270,11 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 
 .. py:function:: s( uid : string, property_name : string )
 
+*image here*
+
 | Where "uid" simply stands for "Unique ID". It is created and assigned every time a slot is added to the stack, it is permanent and therefore guarantees a stable reference, even when the order of the stack changes.
 |
-| There are cases where simply referring to an index is not enough, for example when you want to have the property of a slot that supports a sub-list like "Multi Boolean" or "Set Vertex Group", not only do you need to refer to the slot, but also to refer to its children.
+| There are cases where simply referring to an index is not enough, for example, when you want to have the property of a slot that supports a sub-list like "Multi Boolean" or "Set Vertex Group", not only do you need to refer to the slot, but also to refer to its children.
 | To do this you can use:
 
 .. py:function:: s( index : int, sub_index : int, property_name : string )
