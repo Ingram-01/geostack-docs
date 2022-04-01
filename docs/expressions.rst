@@ -96,7 +96,7 @@ Vector
   Example of a new vector.
   
 | Vectors support almost all operations and also support all functions of the `Python Blender API`_
-| If you want to learn, more `here <https://docs.blender.org/api/current/mathutils.html#mathutils.Vector>`_.
+| For more information about it go `here <https://docs.blender.org/api/current/mathutils.html#mathutils.Vector>`_.
 
 .. _Python Blender API: https://docs.blender.org/api/current/index.html
 
@@ -117,7 +117,7 @@ Object
 | A Blender Object reference. Supports almost all blender properties.
 | You can use it with links like this:
 | *image here*
-| More `here <https://docs.blender.org/api/current/bpy.types.Object.html#bpy.types.Object>`_.
+| For more information about it go `here <https://docs.blender.org/api/current/bpy.types.Object.html#bpy.types.Object>`_.
 
 .. _transform:
 
@@ -271,6 +271,13 @@ To get a property of another slot, the method that you can use in a `Geostack`_ 
 .. py:function:: s( uid : string, property_name : string )
 
 | Where "uid" simply stands for "Unique ID". It is created and assigned every time a slot is added to the stack, it is permanent and therefore guarantees a stable reference, even when the order of the stack changes.
+|
+| There are cases where simply referring to an index is not enough, for example when you want to have the property of a slot that supports a sub-list like "Multi Boolean" or "Set Vertex Group", not only do you need to refer to the slot, but also to refer to its children.
+| To do this you can use:
+
+.. py:function:: s( index : int, sub_index : int, property_name : string )
+
+.. py:function:: s( uid : string, sub_index : int, property_name : string )
 
 .. _maths:
 
