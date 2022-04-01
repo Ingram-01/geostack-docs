@@ -32,7 +32,7 @@ To write an expression click with the mouse on the field and start to type.
   * :ref:`arrays`
   * :ref:`builtin`
   
-| You can concatenate all of this until you get the desired result.
+| You can concatenate all of this until you get the desired value.
 | It is similar when you link inputs and outputs in a node editor but, instead of using nodes, you use text.
 | Let's make an example:
 
