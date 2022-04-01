@@ -15,7 +15,7 @@ Basics
   
   A property and an expression field.
 
-To write an expression click with the mouse on the field and type what you need.
+To write an expression click with the mouse on the field and start to type.
 
 .. figure:: videos/add_expression.gif
   :width: 400
@@ -23,7 +23,15 @@ To write an expression click with the mouse on the field and type what you need.
 
   In this example we simply write a single value to the expression field
 
-| Expressions support: :ref:`values`, :ref:`operators`, :ref:`maths`, :ref:`links`, :ref:`arrays`, :ref:`builtin` and :ref:`constants`.
+* Expressions support:
+  
+  * :ref:`values`
+  * :ref:`operators`
+  * :ref:`maths`
+  * :ref:`links`
+  * :ref:`arrays`
+  * :ref:`builtin`
+  
 | You can concatenate all of this until you get the desired result.
 | It is similar when you link inputs and outputs in a node editor but, instead of using nodes, you use text.
 | Let's make an example:
