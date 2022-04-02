@@ -174,7 +174,16 @@ Basics
 Lists
 ------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+| A List is a data structure, which can store a fixed-size collection of elements of the same data type.
+| Instead of declaring individual links, such as Link_1, Link_2, etc..., you just declare one list variable number of float type and use Link_1[0], Link_1[1], and ..., Link_1[99] to represent individual Links.
+| You can manage lists, from their links special panel.
+
+.. figure:: images/link_list.jpg
+  :width: 300
+  :alt: Link List Panel
+
+The Link List Panel supports a set of operators utilities that help you make lists more efficiently and quickly.
+| *video here*
 
 .. _links_expressions:
 
@@ -189,9 +198,7 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 Built-In Functions, Constants and Variables
 ------------
 
-| Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-| Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
-| Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+These are functions, constants and variables present both in python and in the core of Geostack.
 
 .. _constants:
 
@@ -585,3 +592,5 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
 
     This is for the basics math
     | One of the pillars of `Geostack`_ expressions are the compactness. You can only write you
+
+    https://www.tutorialspoint.com/computer_programming/computer_programming_arrays.htm
