@@ -510,7 +510,7 @@ Ternary
   :width: 300
   :alt: Slot Index
 
-  A ternary expression.
+  Example of ternary.
 
 | Since the expression must be compact as possible, Geostack instead of using the python syntax uses that of other programming languages.
 * The sintax is:
@@ -521,6 +521,16 @@ Ternary
   * **or** is **|**
   * **not** is **!**
   * **in** is **^**
+  
+* Comparison operators are the same:
+
+  * == **Equal**
+  * != **Not Equal**
+  * > **Great**
+  * < **Less**
+  * >= **Great or Equal**
+  * <= **Less or Equal**
+
 
 .. _python functions:
 
