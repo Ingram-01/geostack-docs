@@ -504,7 +504,17 @@ Maths
 Ternary
 ------------
 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow
+| Ternary operators are also known as conditional expressions are operators that evaluate something based on a condition being true or false.
+| *image here*
+| Since the expression must be compact as possible, Geostack instead of using the python syntax uses that of other programming languages.
+* The sintax is:
+
+  * "if" is "?"
+  * "else" is ":"
+  * "and" is "&"
+  * "or" is "|"
+  * "not" is "!"
+  * "in" is "^"
 
 .. _python functions:
 
