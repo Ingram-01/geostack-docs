@@ -505,7 +505,13 @@ Ternary
 ------------
 
 | Ternary operators are also known as conditional expressions are operators that evaluate something based on a condition being true or false.
-| *image here*
+
+.. figure:: videos/ternary.gif
+  :width: 300
+  :alt: Slot Index
+
+  Example of ternary.
+
 | Since the expression must be compact as possible, Geostack instead of using the python syntax uses that of other programming languages.
 * The sintax is:
 
