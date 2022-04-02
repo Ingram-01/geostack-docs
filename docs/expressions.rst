@@ -462,7 +462,7 @@ Maths
 
     Return e raised to the power x, minus 1.
 
-| This instead is a mix of compact `bl_math https://docs.blender.org/api/current/bl_math.html`_ module and internal `Geostack`_ functions.
+| This instead is a mix of compact `bl_math <https://docs.blender.org/api/current/bl_math.html>`_ module and internal `Geostack`_ functions.
 
 .. py:function:: lerp(x,y,t)
 
@@ -537,7 +537,6 @@ Ternary
   * < **Less**
   * >= **Great or Equal**
   * <= **Less or Equal**
-
 
 .. _python functions:
 
