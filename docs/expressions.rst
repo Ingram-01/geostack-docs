@@ -509,12 +509,12 @@ Ternary
 | Since the expression must be compact as possible, Geostack instead of using the python syntax uses that of other programming languages.
 * The sintax is:
 
-  * "if" is "?"
-  * "else" is ":"
-  * "and" is "&"
-  * "or" is "|"
-  * "not" is "!"
-  * "in" is "^"
+  * **if** is **?**
+  * **else** is **:**
+  * **and** is **&**
+  * **or** is **|**
+  * **not** is **!**
+  * **in** is **^**
 
 .. _python functions:
 
